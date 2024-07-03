@@ -1,6 +1,6 @@
 <!--
 <h2 align="center">
-  Welcome to Al Siam World!
+  Welcome to Sid's Profile
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 -->
@@ -12,17 +12,11 @@
 
  -->
 
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Al Siam</a></b>
+                <b><a target="_blank" href="https://alsiam.com">Siddhesh</a></b>
         </samp>
 </h3>
 
@@ -80,14 +74,9 @@
 
 <p align="center">
   <a href="[https://github.com/glitchySid]">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=glitchySid&theme=radical&border=7F3FBF&background=0D1117" alt="Sid's GitHub streak"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/glitchySid">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Al Siam's GitHub Contribution"/>
-  </a>
-</p>
   <br/>
 </a>
