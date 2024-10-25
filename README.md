@@ -15,7 +15,7 @@
 
 <h3 align="center">
   <samp>&gt; Hey There!, I am
-    <b><a target="_blank" href="https://alsiam.com">Siddhesh</a></b>
+    <b><a target="_blank" href="https://www.linkedin.com/in/siddhesh-mhatre-1984171aa/">Siddhesh</a></b>
   </samp>
 </h3>
 
