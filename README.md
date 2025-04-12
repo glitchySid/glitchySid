@@ -67,49 +67,6 @@
 
 </div>
 
-## Top Open Source Projects 🚀
-
-<div align="center">
-  <a href="https://github.com/glitchySid/Fake-News-Detector">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=glitchySid&repo=Fake-News-Detector&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF"/>
-  </a>
-</div>
-
-<p align="center">
-  <a href="https://github.com/glitchySid?tab=repositories" target="_blank">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
-  </a>
-</p>
-
-<br/>
-<hr/>
-<br/>
-
-<!-- GitHub Stats -->
-<div align="center">
-  <a href="https://github.com/glitchySid">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=glitchySid&theme=radical&border=7F3FBF&background=0D1117" alt="Sid's GitHub streak"/>
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/glitchySid">
-    <img src="https://github-profile-trophy.vercel.app/?username=glitchySid&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Sid's GitHub Trophy"/>
-  </a>
-</div>
-
-<!-- GitHub Stats -->
-<h2 align="center"> 📊 Github Stats </h2>
-<div align="center">
-  <a href="https://github.com/glitchySid">
-    <img src="https://github-readme-stats.vercel.app/api?username=glitchySid&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Sid's GitHub Stats" />
-  </a>
-  <a href="https://github.com/glitchySid">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchySid&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6&layout=compact" alt="Sid's Top Languages" />
-  </a>
-</div>
 
 <!-- Activity Graph -->
 <br/>
